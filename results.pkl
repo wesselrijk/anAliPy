@@ -1,0 +1,2 @@
+,h_layers,learning_rate,result,parity
+0,1.0,1e-06,22.0,0.0
